@@ -1,8 +1,5 @@
 package com.cdit.cmo;
 
-/**
- * Created by admin on 17/02/18.
- */
 public class Calculator {
 
     public static void main(String[] args) {
